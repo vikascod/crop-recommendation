@@ -20,7 +20,6 @@ Agriculture is a vital sector for any country. The Crop Recommendation System ai
 ## Features
 - Predicts suitable crops based on soil and climate data.
 - Provides information about the best crop for a given set of conditions.
-- Includes a user-friendly interface for data input.
 
 ## Data Source
 The dataset used for training and testing the model is available on Kaggle:
@@ -34,7 +33,7 @@ Before running the system, you'll need to install the required Python libraries.
     ```bash
     git clone https://github.com/vikascod/crop-recommendation
     cd crop-recommendation
-    
+
 2. Install the project dependencies:
 
    ```bash
